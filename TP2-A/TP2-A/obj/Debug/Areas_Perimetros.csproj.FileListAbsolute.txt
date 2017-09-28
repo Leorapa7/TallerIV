@@ -1,0 +1,2 @@
+c:\users\alumno\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\Area_Perimetro.exe.config
+C:\Users\Leorapa\Desktop\ConsoleApplication1\ConsoleApplication1\bin\Debug\Area_Perimetro.exe.config
